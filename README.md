@@ -1,5 +1,3 @@
-Function abstract over an actions.
-Objects abstract over state and methods.
 
 Inheritance is when you design your types around WHAT they ARE.
 
